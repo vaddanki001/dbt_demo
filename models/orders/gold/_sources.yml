@@ -1,0 +1,10 @@
+version : 2
+
+sources:
+
+  - name: silver
+    database: silver    
+    tables:
+      - name: customers_new
+      - name: orders_new
+      - name: payments_new
